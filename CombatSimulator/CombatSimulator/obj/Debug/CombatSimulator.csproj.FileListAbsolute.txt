@@ -1,1 +1,6 @@
 C:\Users\Technologist\Documents\GitHub\Week2CodeChallenge\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.exe.config
+C:\Users\Technologist\Documents\GitHub\Week2CodeChallenge\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.exe
+C:\Users\Technologist\Documents\GitHub\Week2CodeChallenge\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.pdb
+C:\Users\Technologist\Documents\GitHub\Week2CodeChallenge\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Week2CodeChallenge\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.exe
+C:\Users\Technologist\Documents\GitHub\Week2CodeChallenge\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.pdb
